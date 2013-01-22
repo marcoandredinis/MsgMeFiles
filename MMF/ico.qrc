@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>tray.ico</file>
+        <file>share.png</file>
+        <file>icon.jpg</file>
+        <file>send.png</file>
+    </qresource>
+</RCC>
